@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import struct 
 from io import BytesIO, RawIOBase
 

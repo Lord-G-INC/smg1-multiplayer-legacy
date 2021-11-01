@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 from struct import pack 
 from math import ceil 
 from binascii import unhexlify

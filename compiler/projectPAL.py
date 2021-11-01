@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 from devkit_tools import Project 
 from doltools import write_lis, write_ori
 
