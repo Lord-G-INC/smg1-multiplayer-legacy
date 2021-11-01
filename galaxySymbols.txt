@@ -1,0 +1,150 @@
+drawAll3D = 0x8033ee8c;
+PPCHalt = 0x804a096c;
+alloc = 0x80409af8;
+setupCamera = 0x80098e98;
+updateManager = 0x8034481c;
+updateManagerAlternative = 0x80344858;
+updateDrawManager = 0x80344894;
+
+whatever = 0x80517534;
+checkCollidedObject = 0x8016fae8;
+
+something = 0x8016fbc0;
+
+OSReport = 0x804a3e94;
+
+onNearStar = 0x802b4e6c;
+
+funcInSwingyWhoCares = 0x803c2aa8;
+
+updateCamera = 0x800991c0;
+
+cameraFirstFunc = 0x800993b0;
+
+set3DView = 0x80343dcc;
+
+set3DViewBetter = 0x80399dc4;
+
+innerMarioFunction = 0x802afe04;
+fixCamera = 0x8034465c;
+fixCameraToo = 0x803c783c;
+
+setUpCameraRelatedThing = 0x80365a78;
+setUpCameraRelatedThingToo = 0x80365ad0;
+
+unkFunc = 0x80165874;
+
+cullingFunc = 0x8015f008;
+
+spawnMario = 0x803472f4;
+
+initPrint = 0x80009df4;
+
+testPrintBadLoc = 0x8000e648;
+
+ctInnerPrint = 0x80011718;
+
+testPrintGoodLoc = 0x8000e5fc;
+
+sprintf = 0x8051ce38;
+
+flushCache = 0x80004304;
+
+blueBuffer = 0x803a0234;
+
+setScissor = 0x804be4b0;
+
+drawShadowStuff = 0x803441fc;
+
+C_MTXOrtho = 0x804b6a5c;
+
+calcDistance = 0x804b6cf4;
+
+marioKick = 0x802b7db4;
+
+drawShadowMario = 0x802c0160;
+
+astroDomeVolumeCheck = 0x8001ed50;
+
+respawnCrystalItem = 0x80201dcc;
+
+updateManagerAlternative = 0x80344858;
+updateDrawManager = 0x80344894;
+
+whatever = 0x80517534;
+checkCollidedObject = 0x8016fae8;
+
+something = 0x8016fbc0;
+
+OSReport = 0x804a3e94;
+
+onNearStar = 0x802b4e6c;
+
+funcInSwingyWhoCares = 0x803c2aa8;
+
+updateCamera = 0x800991c0;
+
+cameraFirstFunc = 0x800993b0;
+
+set3DView = 0x80343dcc;
+
+set3DViewBetter = 0x80399dc4;
+
+innerMarioFunction = 0x802afe04;
+fixCamera = 0x8034465c;
+fixCameraToo = 0x803c783c;
+
+setUpCameraRelatedThing = 0x80365a78;
+setUpCameraRelatedThingToo = 0x80365ad0;
+
+unkFunc = 0x80165874;
+
+cullingFunc = 0x8015f008;
+
+spawnMario = 0x803472f4;
+
+initPrint = 0x80009df4;
+
+testPrintBadLoc = 0x8000e648;
+
+ctInnerPrint = 0x80011718;
+
+testPrintGoodLoc = 0x8000e5fc;
+
+sprintf = 0x80485094;
+
+flushCache = 0x80004304;
+
+blueBuffer = 0x803a0234;
+
+setScissor = 0x804be4b0;
+
+cameraStuffFunc = 0x803c7500;
+
+PSMTXRotRad = 0x803a3164;
+PSMTXInverse = 0x804b6008;
+PSMTXConcat = 0x804b5f3c;
+PSMTXIdentity = 0x804b5edc;
+C_MTXLookAt = 0x804b6548;
+MTXMultiply = 0x80016cc4;
+
+cos = 0x805268b8;
+sin = 0x80526cc4;
+tan = 0x80526da4;
+float2str = 0x80521394;
+
+firstPersonMain = 0x8009957c;
+firstPersonThing = 0x80018b28;
+firstPersonControlsUpdate = 0x800a6ddc;
+firstPersonSetupFunc = 0x800a3864;
+
+testCameraFunc = 0x802ebea0;
+
+groundMovement = 0x802e9a08;
+airMovement = 0x802e46a4;
+movement = 0x802b087c;
+
+mRotate = 0x802ab5bc;
+
+forceKillPlayerByAbyss = 0x803f1e74; 
+deathAreaGetDeathType = 0x80021fc8;

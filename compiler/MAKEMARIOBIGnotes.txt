@@ -1,0 +1,13 @@
+updatehitsensor: 802be614
+disabling removes collision but it doesn't actually do a lot... so idk
+
+attacksensor for mario: 802befc4
+attackorPushsensor for mario:
+802c4ffc make hit sensors bigger to let bigger mario attack more
+
+80201948 leads to the red star crystal stuff pushing mario idk
+
+hit sensor values for mario around here
+
+//0X16/0x17 of hitsensors is free, replace this with coin count to allow for collision
+//iterator to work!

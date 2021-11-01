@@ -1,0 +1,47 @@
+$crash handler
+0439aaf0 60000000
+$neutrally set 30fps as in the game may change it later
+043a0058 60000000
+0439f7d4 3bc00002
+$make visibility actually bearable multi viewports
+0433efec 60000000
+$remove wacky ice water effects
+042b6de8 60000000
+$remove wacky water effects
+04344338 60000000
+04344310 60000000
+$remove wacky lava effects
+04344264 60000000
+$warp star code edit
+04246410 2c030000
+$needless function in mario i think?
+042afdd8 60000000
+$nullified camera func
+0433e690 60000000
+$remove manager 4 updating
+04343b4c 60000000
+$make bee mushroom work both players
+042b56f4 387F0074
+$make ice flower work both players
+042b5988 387E00F2
+$make invincible mario work both players
+042b5aec 387f0135
+$make spieerng work both
+042b5894 387F00C0
+$make ghost work both
+042b5be0 387E0165
+$make both tornado work
+042b5d0c 60000000
+
+$lock first person camera
+040995c4 38000001
+04099648 60000000
+$remove limit to moving from side to side first person... or something c022ffe0
+040aed40 60000000
+$REMOVE from the first camera stup fuinc to make camera betterish
+040aea38 60000000
+040aeb7c 60000000
+040aea34 60000000
+040aeb78 60000000
+$mario cannot initiate first person legit now
+042ad0fc 48000064
