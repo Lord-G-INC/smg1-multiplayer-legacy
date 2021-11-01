@@ -86,4 +86,4 @@ p.branchlink(0x800aee48, "forceFirstCamRot")
 #gxsetscissor 804be4b0
 
 
-p.build("C:\\Max's folder\\Folder Games\\super mario galaxy\\DATA\\sys\\main.dol")
+p.build("mario-patched.dol")
