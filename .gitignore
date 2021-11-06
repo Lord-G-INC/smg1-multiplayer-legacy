@@ -1,0 +1,17 @@
+*.o
+
+*.c.o
+*.c.s
+
+*.bin
+*.map
+
+*.dol
+!/compiler/mario.dol
+
+tmplink
+
+# Python bytecode cache
+__pycache__/
+*.py[cod]
+*$py.clas
